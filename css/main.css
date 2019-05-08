@@ -1,0 +1,16 @@
+header {
+    background: url("../img/header-bg.jpg") no-repeat center top fixed;
+    background-size: cover;
+    height: 60vh;
+}
+
+.hd-text {
+    padding-top: 200px ;
+}
+
+.f-section {
+    background: url("../img/map-image.png") no-repeat center top fixed;
+    background-color: black;
+    background-size: cover;
+    
+}
